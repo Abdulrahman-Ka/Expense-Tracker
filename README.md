@@ -3,7 +3,7 @@
 A high-performance, client-side financial ledger built with React, TypeScript, and Tailwind CSS v4. The application features isolated multi-currency account tracking, manual input validations, automatic theme synchronization, and optimized persistent state handling.
 
 ## 🚀 Live Demo
-[Insert Your Live Deployment Link Here - e.g., Cloudflare/GitHub Pages]
+[Live Deployment Link](https://abdulrahman-ka.github.io/Expense-Tracker/)
 
 ## 🛠️ Tech Stack & Architecture
 
